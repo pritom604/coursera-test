@@ -7,6 +7,8 @@ Moglai
 
 Chicken fry
 
+beans
+pizza
 
 
 
@@ -14,4 +16,7 @@ Chicken fry
 
 thank you :)
 
+done my changes
+
 done editing
+
